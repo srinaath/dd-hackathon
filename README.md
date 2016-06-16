@@ -2,7 +2,7 @@
 
 
 ##Steps
-Navigate to the folder server. Execute the following
+Navigate to the folder 'server'. Execute the following
 ```sh
 npm install hapi -g
 ```
@@ -19,4 +19,4 @@ npm install http-server -g
 http-server
 ```
 
-Now open locahost:8080
+Now open localhost:8080
