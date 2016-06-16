@@ -1,4 +1,4 @@
 {
 	"watch": ["**/*.*"],
-	"ignore": ["logs/"]
+	"ignore": ["Twitter.ProtoType/"]
 }
